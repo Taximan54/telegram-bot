@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from aiogram.filters import CommandStart
 
-TOKEN = "8770383990:AAH6t8cdpDYpiKLibUhcMQCiUCA1nlRvfIc"
+TOKEN = "8770383990:AAFOOWKAzZbEVWzXvRO_j_V0wIg19wzrNvw"
 
 dp = Dispatcher()
 
